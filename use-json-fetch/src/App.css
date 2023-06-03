@@ -1,0 +1,13 @@
+body {
+  text-align: left;
+}
+.data {
+  color: green;
+}
+.loading{
+  color: blue;
+
+}
+.error {
+  color: red;
+}
